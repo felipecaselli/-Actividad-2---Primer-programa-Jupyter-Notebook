@@ -1,6 +1,3 @@
-Felipe Caselli
-Legajo: 17899/1
-
 # Entrega Actividad 2 - Python
 
 Este repositorio contiene la solución de los ejercicios en Jupyter Notebook.
