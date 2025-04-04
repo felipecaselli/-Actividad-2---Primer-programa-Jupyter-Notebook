@@ -1,4 +1,30 @@
-# Actividad-2---Primer-programa-Jupyter-Notebook
-
 Felipe Caselli
 Legajo: 17899/1
+
+# Entrega Actividad 2 - Python
+
+Este repositorio contiene la solución de los ejercicios en Jupyter Notebook.
+
+## 📂 Estructura del proyecto
+- `notas.ipynb` → Contiene todos los ejercicios resueltos.  
+- `/src/funciones.py` → Contiene las funciones utilizadas en el notebook.  
+- `README.md` → Explica cómo ejecutar el código.  
+
+## 🚀 Cómo ejecutar el proyecto
+1. Instalar Jupyter Notebook si no está instalado:  
+pip install notebook
+
+2. Clonar este repositorio:  
+git clone https://github.com/felipecaselli/Actividad-2--Primer-programa-Jupyter-Notebook.git cd Actividad-2--Primer-programa-Jupyter-Notebook
+
+3. Ejecutar el notebook:  
+jupyter notebook
+
+4. Abrir el archivo `notas.ipynb` y ejecutar las celdas.  
+
+## 🎥 Video Explicativo
+🔗 [Enlace al video aquí](#) *(Reemplazar con el enlace real)*  
+
+## 📌 Autor
+✍️ Tu Nombre  
+
