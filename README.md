@@ -7,7 +7,6 @@ Este repositorio contiene la solución de los ejercicios en Jupyter Notebook.
 
 ## 📂 Estructura del proyecto
 - `notas.ipynb` → Contiene todos los ejercicios resueltos.  
-- `/src/funciones.py` → Contiene las funciones utilizadas en el notebook.  
 - `README.md` → Explica cómo ejecutar el código.  
 
 ## 🚀 Cómo ejecutar el proyecto
@@ -26,5 +25,5 @@ jupyter notebook
 🔗 [Enlace al video aquí](#) *(Reemplazar con el enlace real)*  
 
 ## 📌 Autor
-✍️ Tu Nombre  
+✍️ Felipe Caselli  
 
