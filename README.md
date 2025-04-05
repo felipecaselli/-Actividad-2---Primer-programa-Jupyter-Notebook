@@ -18,9 +18,6 @@ jupyter notebook
 
 4. Abrir el archivo `notas.ipynb` y ejecutar las celdas.  
 
-## 🎥 Video Explicativo
-🔗 [Enlace al video aquí](#) *(Reemplazar con el enlace real)*  
-
 ## 📌 Autor
 ✍️ Felipe Caselli  
 
